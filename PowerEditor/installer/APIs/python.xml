@@ -269,6 +269,7 @@
 			<Overload retVal="" descr="S.capitalize() -&gt; string&#x0a;&#x0a;Return a copy of the string S with only its first character&#x0a;capitalized.">
 			</Overload>
 		</KeyWord>
+		<KeyWord name="case" />
 		<KeyWord name="center" func="yes">
 			<Overload retVal="" descr="B.center(width[, fillchar]) -&gt; copy of B&#x0a;&#x0a;Return B centered in a string of length width.  Padding is&#x0a;done using the specified fill character (default is a space).">
 			</Overload>
@@ -630,6 +631,7 @@
 			<Overload retVal="" descr="map(function, sequence[, sequence, ...]) -&gt; list&#x0a;&#x0a;Return a list of the results of applying the function to the items of&#x0a;the argument sequence(s).  If more than one sequence is given, the&#x0a;function is called with an argument list consisting of the corresponding&#x0a;item of each sequence, substituting None for missing values when not all&#x0a;sequences have the same length.  If the function is None, return a list of&#x0a;the items of the sequence (or a list of tuples if more than one sequence).">
 			</Overload>
 		</KeyWord>
+		<KeyWord name="match" />
 		<KeyWord name="max" func="yes">
 			<Overload retVal="" descr="max(iterable[, key=func]) -&gt; value&#x0a;max(a, b, c, ...[, key=func]) -&gt; value&#x0a;&#x0a;With a single iterable argument, return its largest item.&#x0a;With two or more arguments, return the largest argument.">
 			</Overload>
